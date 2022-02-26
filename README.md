@@ -8,4 +8,4 @@ Anggota BO1
 | ---------------------------   | --------------- |
 | Fachrendy Zulfikar Abdillah   |    5025201018   |
 | Ingwer Ludwig Nommensen       |    5025201      |
-| Fidhia Ainun Khofifah         |                 |
+| Fidhia Ainun Khofifah         | 05111940000203  |
