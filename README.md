@@ -7,5 +7,5 @@ Anggota BO1
 |             Nama              |       NRP       |
 | ---------------------------   | --------------- |
 | Fachrendy Zulfikar Abdillah   |    5025201018   |
-|                               | Content Cell    |
-|                               | Content Cell    |
+| Ingwer Ludwig Nommensen       |    5025201      |
+| Fidhia Ainun Khofifah         |                 |
