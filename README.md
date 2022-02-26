@@ -1,2 +1,11 @@
 # soal-shift-sisop-modul-1-B01-2022
-Penyelesaian Soal Shift Modul 1 Sistem Operasi 2022
+
+Mengsisop dulu, demi sesuap nasi
+
+
+Anggota BO1
+|             Nama              |       NRP       |
+| ---------------------------   | --------------- |
+| Fachrendy Zulfikar Abdillah   |    5025201018   |
+|                               | Content Cell    |
+|                               | Content Cell    |
