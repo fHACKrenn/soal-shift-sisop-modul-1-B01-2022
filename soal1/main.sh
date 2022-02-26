@@ -48,7 +48,7 @@ login_function(){
 	if [[ ! -f "$user_txt" ]]
 		then
 			echo "There is no user registered.... yet."
-	else
+	else 
 		if [[ -n "$check_user" ]] && [[ -n "$check_password" ]]
 			then
 				echo "$calendar $time LOGIN:INFO User $username logged in" >> "$log_txt"
