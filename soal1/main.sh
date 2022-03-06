@@ -1,7 +1,7 @@
 #!/bin/bash
 
-folder=$(date +%Y-%m-%d)_$username
-folder_location=/home/kali/Seasoup/'Modul 1'/'Soal 1'
+folder=$(date +%Y-%m-%d)_username
+folder_location=/home/phacktrick/Fachren/Program/Seasoup/'Modul 1'/'Soal 1'
 log_txt=$folder_location/log.txt
 user_txt=$folder_location/users/user.txt
 
@@ -10,12 +10,12 @@ dl_command_start_function(){
 	do
 		wget https://loremflickr.com/320/240 -O "$folder"/PIC_$i.jpg
 	done
-	zip --password $password -r $folder.zip "$folder"/
+	zip --password $password -r "$folder".zip "$folder"/
 	rm -rf $folder
 }
 
 unzip_function(){
-	unzip -P $password $folder.zip
+	unzip -P $password "$folder.zip"
 	rm $folder.zip
 	count=$(find $folder -type f | wc -l)
 	dl_command_start_function
@@ -88,5 +88,4 @@ do
 	printf "Pres CTRL+C to stop...\n\n"
 	sleep 1
 done
-
 
