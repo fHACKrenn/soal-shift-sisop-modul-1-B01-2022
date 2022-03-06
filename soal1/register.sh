@@ -1,6 +1,6 @@
 #!/bin/bash
 
-folder_location=/home/kali/Seasoup/'Modul 1'/'Soal 1'
+folder_location=/home/phacktrick/Fachren/Program/Seasoup/'Modul 1'/'Soal 1'
 user_location="$folder_location"/users
 
 if [[ ! -d "$user_location" ]]
